@@ -1,0 +1,10 @@
+.infos{
+    display: flex;
+    justify-content: space-between;
+    font-family: var(--fonte-secundaria);
+    padding: 1.5em;
+}
+
+.btn-adicionar{
+
+}

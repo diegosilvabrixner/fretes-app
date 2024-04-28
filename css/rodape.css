@@ -1,0 +1,31 @@
+.rodape{
+    background-color: var(--cor-secundaria);
+    font-family: var(--fonte-principal);
+    display: flex;
+    justify-content: space-between;
+    align-items:end;
+    padding: 1em;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+   
+}
+
+.rodape-casa{
+    width: 12%;
+    align-items: center;
+}
+
+.rodape-caminhao{
+    width: 13%;
+    align-items: center;
+}
+
+.rodape-cadastro{
+    width: 13%;
+    align-items: center;
+    padding:0 1em 0 0;
+}
+

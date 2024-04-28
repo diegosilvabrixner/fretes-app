@@ -1,0 +1,28 @@
+@import url("./css/header.css");
+@import url("./css/infos.css");
+@import url("./css/rodape.css");
+@import url("./css/formulario.css");
+@import url("./css/adicionar.css");
+
+
+
+:root{
+    --botao-pesquisa:#737373;
+    --branco:#ffffff;
+    --azul-claro:#6BD1FF;
+    --cor-de-fundo:#F4F6FF;
+    --cor-secundaria:#004AAD;
+    --fonte-principal: "poppins";
+    --fonte-secundaria: "Josefin Sans";
+}
+
+body{
+    background-color:var(--cor-de-fundo);
+}
+
+.btn-voltar{
+    font-family: var(--fonte-principal);
+}
+
+
+
